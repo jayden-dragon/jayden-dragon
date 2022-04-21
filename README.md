@@ -1,6 +1,6 @@
 Hi there 👋
 <br/><br>
-I am Gyu Sam Chang. 
+<!-- I am Gyu Sam Chang. 
 <br/><br>
 I am a Software engineer who never gives up and enjoys challenges. I am interested in Computer Vision, Machine Learning & Embedded system. As a software engineer, I believe problem-solving is the most important and considerable ability. In order to develop such ability, I will constantly learn and put my full efforts into it.
 
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
